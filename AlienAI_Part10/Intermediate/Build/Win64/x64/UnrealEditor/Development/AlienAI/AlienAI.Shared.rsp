@@ -4,7 +4,7 @@
 /I "Runtime/AutoRTFM/Public"
 /I "../Intermediate/Build/Win64/UnrealEditor/Inc/ImageCore/UHT"
 /I "Runtime/ImageCore/Public"
-/I "C:/Users/5022810/Downloads/AlienAI_Part10/Intermediate/Build/Win64/x64/AlienAIEditor/Development/Core"
+/I "C:/Users/5018761/Documents/GitHub/NeverForgottenFinalGITHUB/AlienAI_Part10/Intermediate/Build/Win64/x64/AlienAIEditor/Development/Core"
 /external:W0
 /external:I "ThirdParty/GuidelinesSupportLibrary/GSL-1144/include"
 /external:I "ThirdParty/AtomicQueue"

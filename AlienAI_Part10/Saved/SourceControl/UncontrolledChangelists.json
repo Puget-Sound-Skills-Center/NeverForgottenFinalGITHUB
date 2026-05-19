@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/5018761/Documents/GitHub/NeverForgottenFinalGITHUB/AlienAI_Part10/Content/interactionsystem/Interaction.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgottenFinalGITHUB/AlienAI_Part10/Content/Interactable/BP_pickupitem.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgottenFinalGITHUB/AlienAI_Part10/Content/interactionsystem/BPI_interactable.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgottenFinalGITHUB/AlienAI_Part10/Content/_TutContent/Blueprints/Characters/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgottenFinalGITHUB/AlienAI_Part10/Content/Interactable/BP_door.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgottenFinalGITHUB/AlienAI_Part10/Content/__ExternalActors__/_TutContent/Maps/Lvl_Prototyping/1/TD/O3EOEYW2ORUXP0WACKXRYY.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgottenFinalGITHUB/AlienAI_Part10/Content/__ExternalActors__/_TutContent/Maps/Lvl_Prototyping/E/0Y/LNH1YJH8L69A3HVWQEYR55.uasset",
 				"C:/Users/5022810/Downloads/AlienAI_Part10/Content/Variant_Shooter/Lvl_ArenaShooter.umap"
 			]
 		}
