@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AlienAI.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"AlienAI.cpp.obj"
+		]
+	}
+}

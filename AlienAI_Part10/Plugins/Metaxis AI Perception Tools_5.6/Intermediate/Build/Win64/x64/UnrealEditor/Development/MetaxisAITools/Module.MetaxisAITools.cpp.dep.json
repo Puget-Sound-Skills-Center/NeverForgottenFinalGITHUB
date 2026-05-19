@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\5022810\\downloads\\alienai_part10\\plugins\\metaxis ai perception tools_5.6\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\metaxisaitools\\module.metaxisaitools.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\5022810\\downloads\\alienai_part10\\intermediate\\build\\win64\\x64\\alienaieditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\5022810\\downloads\\alienai_part10\\plugins\\metaxis ai perception tools_5.6\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\metaxisaitools\\definitions.metaxisaitools.h",
+            "c:\\users\\5022810\\downloads\\alienai_part10\\plugins\\metaxis ai perception tools_5.6\\intermediate\\build\\win64\\unrealeditor\\inc\\metaxisaitools\\uht\\metaxisaicontroller.gen.cpp",
+            "c:\\users\\5022810\\downloads\\alienai_part10\\plugins\\metaxis ai perception tools_5.6\\source\\metaxisaitools\\public\\metaxisaicontroller.h",
+            "c:\\epic games\\5.6\\engine\\source\\runtime\\aimodule\\classes\\aicontroller.h",
+            "c:\\epic games\\5.6\\engine\\source\\runtime\\aimodule\\classes\\aitypes.h",
+            "c:\\epic games\\5.6\\engine\\source\\runtime\\navigationsystem\\public\\navigationsystemtypes.h",
+            "c:\\epic games\\5.6\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\navagentselector.h",
+            "c:\\epic games\\5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navagentselector.generated.h",
+            "c:\\epic games\\5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aitypes.generated.h",
+            "c:\\epic games\\5.6\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptionlistenerinterface.h",
+            "c:\\epic games\\5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aiperceptionlistenerinterface.generated.h",
+            "c:\\epic games\\5.6\\engine\\source\\runtime\\aimodule\\classes\\genericteamagentinterface.h",
+            "c:\\epic games\\5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\genericteamagentinterface.generated.h",
+            "c:\\epic games\\5.6\\engine\\source\\runtime\\engine\\public\\visuallogger\\visualloggerdebugsnapshotinterface.h",
+            "c:\\epic games\\5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\visualloggerdebugsnapshotinterface.generated.h",
+            "c:\\epic games\\5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aicontroller.generated.h",
+            "c:\\users\\5022810\\downloads\\alienai_part10\\plugins\\metaxis ai perception tools_5.6\\intermediate\\build\\win64\\unrealeditor\\inc\\metaxisaitools\\uht\\metaxisaicontroller.generated.h",
+            "c:\\users\\5022810\\downloads\\alienai_part10\\plugins\\metaxis ai perception tools_5.6\\intermediate\\build\\win64\\unrealeditor\\inc\\metaxisaitools\\uht\\metaxisaitools.init.gen.cpp",
+            "c:\\users\\5022810\\downloads\\alienai_part10\\plugins\\metaxis ai perception tools_5.6\\intermediate\\build\\win64\\unrealeditor\\inc\\metaxisaitools\\uht\\metaxisblueprintfunctionlibrary.gen.cpp",
+            "c:\\users\\5022810\\downloads\\alienai_part10\\plugins\\metaxis ai perception tools_5.6\\source\\metaxisaitools\\public\\metaxisblueprintfunctionlibrary.h",
+            "c:\\users\\5022810\\downloads\\alienai_part10\\plugins\\metaxis ai perception tools_5.6\\intermediate\\build\\win64\\unrealeditor\\inc\\metaxisaitools\\uht\\metaxisblueprintfunctionlibrary.generated.h",
+            "c:\\users\\5022810\\downloads\\alienai_part10\\plugins\\metaxis ai perception tools_5.6\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\metaxisaitools\\permoduleinline.gen.cpp",
+            "c:\\epic games\\5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

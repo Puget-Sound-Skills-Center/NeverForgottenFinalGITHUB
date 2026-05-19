@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\5022810\\downloads\\alienai_part10\\intermediate\\source\\alienai.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\5022810\\downloads\\alienai_part10\\intermediate\\build\\win64\\x64\\alienaieditor\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\5022810\\downloads\\alienai_part10\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\alienai\\definitions.alienai.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

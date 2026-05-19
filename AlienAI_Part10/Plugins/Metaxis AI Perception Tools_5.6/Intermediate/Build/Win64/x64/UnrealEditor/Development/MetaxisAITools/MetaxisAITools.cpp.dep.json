@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\5022810\\downloads\\alienai_part10\\plugins\\metaxis ai perception tools_5.6\\source\\metaxisaitools\\private\\metaxisaitools.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\5022810\\downloads\\alienai_part10\\intermediate\\build\\win64\\x64\\alienaieditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\5022810\\downloads\\alienai_part10\\plugins\\metaxis ai perception tools_5.6\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\metaxisaitools\\definitions.metaxisaitools.h",
+            "c:\\users\\5022810\\downloads\\alienai_part10\\plugins\\metaxis ai perception tools_5.6\\source\\metaxisaitools\\public\\metaxisaitools.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

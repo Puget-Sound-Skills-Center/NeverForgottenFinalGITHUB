@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MetaxisAITools.cpp.obj": [
+			"MetaxisAIController.gen.cpp.obj",
+			"MetaxisAITools.init.gen.cpp.obj",
+			"MetaxisBlueprintFunctionLibrary.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"MetaxisAIController.cpp.obj",
+			"MetaxisAITools.cpp.obj",
+			"MetaxisBlueprintFunctionLibrary.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\5022810\\downloads\\alienai_part10\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\alienai\\module.alienai.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\5022810\\downloads\\alienai_part10\\intermediate\\build\\win64\\x64\\alienaieditor\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\5022810\\downloads\\alienai_part10\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\alienai\\definitions.alienai.h",
+            "c:\\users\\5022810\\downloads\\alienai_part10\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\alienai\\permoduleinline.gen.cpp",
+            "c:\\epic games\\5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

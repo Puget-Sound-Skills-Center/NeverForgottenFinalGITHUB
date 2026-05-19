@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AlienAI.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/5022810/Downloads/AlienAI_Part10/Intermediate/Build/Win64/x64/AlienAIEditor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/5022810/Downloads/AlienAI_Part10/Intermediate/Build/Win64/x64/UnrealEditor/Development/AlienAI/Module.AlienAI.cpp.obj"
+"C:/Users/5022810/Downloads/AlienAI_Part10/Intermediate/Build/Win64/x64/UnrealEditor/Development/AlienAI/AlienAI.cpp.obj"
+"C:/Users/5022810/Downloads/AlienAI_Part10/Intermediate/Build/Win64/x64/UnrealEditor/Development/AlienAI/Default.rc2.res"
+/OUT:"C:/Users/5022810/Downloads/AlienAI_Part10/Intermediate/Build/Win64/x64/UnrealEditor/Development/AlienAI/UnrealEditor-AlienAI.lib"
