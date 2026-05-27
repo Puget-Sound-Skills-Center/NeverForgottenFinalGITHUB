@@ -87,5 +87,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="First Person BP Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=AlienAI
-/fo "C:/Users/5022810/Downloads/AlienAI_Part10/Intermediate/Build/Win64/x64/UnrealEditor/Development/AlienAI/Default.rc2.res"
+/fo "C:/Users/5023012/Downloads/GameAnimationSample/NeverForgottenFinalGITHUB/AlienAI_Part10/Intermediate/Build/Win64/x64/UnrealEditor/Development/AlienAI/Default.rc2.res"
 "../Build/Windows/Resources/Default.rc2"

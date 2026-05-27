@@ -36,12 +36,9 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"C:/Users/5022810/Downloads/AlienAI_Part10/Intermediate/Build/Win64/x64/AlienAIEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"C:/Users/5022810/Downloads/AlienAI_Part10/Plugins/Metaxis AI Perception Tools_5.6/Intermediate/Build/Win64/x64/UnrealEditor/Development/MetaxisAITools/Module.MetaxisAITools.cpp.obj"
-"C:/Users/5022810/Downloads/AlienAI_Part10/Plugins/Metaxis AI Perception Tools_5.6/Intermediate/Build/Win64/x64/UnrealEditor/Development/MetaxisAITools/MetaxisAIController.cpp.obj"
-"C:/Users/5022810/Downloads/AlienAI_Part10/Plugins/Metaxis AI Perception Tools_5.6/Intermediate/Build/Win64/x64/UnrealEditor/Development/MetaxisAITools/MetaxisAITools.cpp.obj"
-"C:/Users/5022810/Downloads/AlienAI_Part10/Plugins/Metaxis AI Perception Tools_5.6/Intermediate/Build/Win64/x64/UnrealEditor/Development/MetaxisAITools/MetaxisBlueprintFunctionLibrary.cpp.obj"
-"C:/Users/5022810/Downloads/AlienAI_Part10/Plugins/Metaxis AI Perception Tools_5.6/Intermediate/Build/Win64/x64/UnrealEditor/Development/MetaxisAITools/Default.rc2.res"
+"C:/Users/5023012/Downloads/GameAnimationSample/NeverForgottenFinalGITHUB/AlienAI_Part10/Intermediate/Build/Win64/x64/AlienAIEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/5023012/Downloads/GameAnimationSample/NeverForgottenFinalGITHUB/AlienAI_Part10/Plugins/Metaxis AI Perception Tools_5.6/Intermediate/Build/Win64/x64/UnrealEditor/Development/MetaxisAITools/Module.MetaxisAITools.cpp.obj"
+"C:/Users/5023012/Downloads/GameAnimationSample/NeverForgottenFinalGITHUB/AlienAI_Part10/Plugins/Metaxis AI Perception Tools_5.6/Intermediate/Build/Win64/x64/UnrealEditor/Development/MetaxisAITools/Default.rc2.res"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Slate/UnrealEditor-Slate.lib"
@@ -75,6 +72,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:/Users/5022810/Downloads/AlienAI_Part10/Plugins/Metaxis AI Perception Tools_5.6/Binaries/Win64/UnrealEditor-MetaxisAITools.dll"
-/PDB:"C:/Users/5022810/Downloads/AlienAI_Part10/Plugins/Metaxis AI Perception Tools_5.6/Binaries/Win64/UnrealEditor-MetaxisAITools.pdb"
+/OUT:"C:/Users/5023012/Downloads/GameAnimationSample/NeverForgottenFinalGITHUB/AlienAI_Part10/Plugins/Metaxis AI Perception Tools_5.6/Binaries/Win64/UnrealEditor-MetaxisAITools.dll"
+/PDB:"C:/Users/5023012/Downloads/GameAnimationSample/NeverForgottenFinalGITHUB/AlienAI_Part10/Plugins/Metaxis AI Perception Tools_5.6/Binaries/Win64/UnrealEditor-MetaxisAITools.pdb"
 /ignore:4078
