@@ -1,11 +1,11 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\5022810\\Downloads\\AlienAI_Part10\\Plugins\\Metaxis AI Perception Tools_5.6\\Source\\MetaxisAITools\\MetaxisAITools.Build.cs",
-		"C:\\Users\\5022810\\Downloads\\AlienAI_Part10\\Intermediate\\Source\\AlienAI.Build.cs",
-		"C:\\Users\\5022810\\Downloads\\AlienAI_Part10\\Intermediate\\Source\\AlienAI.Target.cs",
-		"C:\\Users\\5022810\\Downloads\\AlienAI_Part10\\Intermediate\\Source\\AlienAIClient.Target.cs",
-		"C:\\Users\\5022810\\Downloads\\AlienAI_Part10\\Intermediate\\Source\\AlienAIEditor.Target.cs",
-		"C:\\Users\\5022810\\Downloads\\AlienAI_Part10\\Intermediate\\Source\\AlienAIServer.Target.cs"
+		"C:\\Users\\4026379\\Documents\\GitHub\\NeverForgottenFinalGITHUB\\AlienAI_Part10\\Plugins\\Metaxis AI Perception Tools_5.6\\Source\\MetaxisAITools\\MetaxisAITools.Build.cs",
+		"C:\\Users\\4026379\\Documents\\GitHub\\NeverForgottenFinalGITHUB\\AlienAI_Part10\\Intermediate\\Source\\AlienAI.Build.cs",
+		"C:\\Users\\4026379\\Documents\\GitHub\\NeverForgottenFinalGITHUB\\AlienAI_Part10\\Intermediate\\Source\\AlienAI.Target.cs",
+		"C:\\Users\\4026379\\Documents\\GitHub\\NeverForgottenFinalGITHUB\\AlienAI_Part10\\Intermediate\\Source\\AlienAIClient.Target.cs",
+		"C:\\Users\\4026379\\Documents\\GitHub\\NeverForgottenFinalGITHUB\\AlienAI_Part10\\Intermediate\\Source\\AlienAIEditor.Target.cs",
+		"C:\\Users\\4026379\\Documents\\GitHub\\NeverForgottenFinalGITHUB\\AlienAI_Part10\\Intermediate\\Source\\AlienAIServer.Target.cs"
 	],
 	"EngineVersion": "5.6.0"
 }

@@ -36,10 +36,9 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"C:/Users/5022810/Downloads/AlienAI_Part10/Intermediate/Build/Win64/x64/AlienAIEditor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"C:/Users/5022810/Downloads/AlienAI_Part10/Intermediate/Build/Win64/x64/UnrealEditor/Development/AlienAI/Module.AlienAI.cpp.obj"
-"C:/Users/5022810/Downloads/AlienAI_Part10/Intermediate/Build/Win64/x64/UnrealEditor/Development/AlienAI/AlienAI.cpp.obj"
-"C:/Users/5022810/Downloads/AlienAI_Part10/Intermediate/Build/Win64/x64/UnrealEditor/Development/AlienAI/Default.rc2.res"
+"C:/Users/4026379/Documents/GitHub/NeverForgottenFinalGITHUB/AlienAI_Part10/Intermediate/Build/Win64/x64/AlienAIEditor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/4026379/Documents/GitHub/NeverForgottenFinalGITHUB/AlienAI_Part10/Intermediate/Build/Win64/x64/UnrealEditor/Development/AlienAI/Module.AlienAI.cpp.obj"
+"C:/Users/4026379/Documents/GitHub/NeverForgottenFinalGITHUB/AlienAI_Part10/Intermediate/Build/Win64/x64/UnrealEditor/Development/AlienAI/Default.rc2.res"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "delayimp.lib"
 "wininet.lib"
@@ -66,6 +65,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:/Users/5022810/Downloads/AlienAI_Part10/Binaries/Win64/UnrealEditor-AlienAI.dll"
-/PDB:"C:/Users/5022810/Downloads/AlienAI_Part10/Binaries/Win64/UnrealEditor-AlienAI.pdb"
+/OUT:"C:/Users/4026379/Documents/GitHub/NeverForgottenFinalGITHUB/AlienAI_Part10/Binaries/Win64/UnrealEditor-AlienAI.dll"
+/PDB:"C:/Users/4026379/Documents/GitHub/NeverForgottenFinalGITHUB/AlienAI_Part10/Binaries/Win64/UnrealEditor-AlienAI.pdb"
 /ignore:4078
